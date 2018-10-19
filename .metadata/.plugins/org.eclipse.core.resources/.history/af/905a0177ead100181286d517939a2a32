@@ -1,0 +1,13 @@
+package t4novel.azurewebsites.net.models;
+
+import java.util.Date;
+import java.util.List;
+
+public class Vol {
+	private int id;
+	private List<Chap> chaps;
+	private Date dateUp;
+	private String description;
+	private Novel owner;
+	
+}

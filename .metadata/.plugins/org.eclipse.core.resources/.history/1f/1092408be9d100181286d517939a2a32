@@ -1,0 +1,13 @@
+package t4novel.azurewebsites.net.models;
+
+import java.util.List;
+
+public class Thread {
+	private int id;
+	private String title;
+	private String content;
+	private List<Comment> comments;
+	private List<Account> blockAccounts;
+	private List<Account> follows;
+	private Account owner;
+}

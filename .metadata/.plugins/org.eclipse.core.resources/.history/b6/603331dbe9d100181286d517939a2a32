@@ -1,0 +1,5 @@
+package t4novel.azurewebsites.net.models;
+
+public class Comment {
+
+}

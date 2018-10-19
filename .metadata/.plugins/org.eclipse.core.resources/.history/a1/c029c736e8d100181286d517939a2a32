@@ -1,0 +1,13 @@
+package t4novel.azurewebsites.net.models;
+
+import java.util.List;
+import java.util.Date;
+
+public class Group {
+	private int id;
+	private List<Account> accounts;
+	private String name;
+	private String description;
+	private Date dateCreate;
+	private int idOwner;
+}

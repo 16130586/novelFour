@@ -1,0 +1,14 @@
+package t4novel.azurewebsites.net.models;
+
+import java.util.Date;
+import java.util.List;
+
+public class chaps {
+	private int id;
+	private String content;
+	private Date dateUp;
+	private int view;
+	private int like;
+	private List<Comment> comments;
+	private Vol owner;
+}

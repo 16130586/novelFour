@@ -1,0 +1,12 @@
+package t4novel.azurewebsites.net.models;
+
+import java.util.Date;
+
+public class Message {
+	private int id;
+	private String content;
+	private Date time;
+	private String url;
+	private Account from;
+	private Account to;
+}

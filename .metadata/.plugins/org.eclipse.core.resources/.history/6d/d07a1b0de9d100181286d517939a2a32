@@ -1,0 +1,11 @@
+package t4novel.azurewebsites.net.models;
+
+import java.util.Date;
+
+public class BookMarkFolder {
+	private int id;
+	private String description;
+	private String url;
+	private Date timel
+	private String title;
+}

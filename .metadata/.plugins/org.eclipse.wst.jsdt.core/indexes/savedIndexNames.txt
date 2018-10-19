@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Maf\Desktop\New folder\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2790192493.index
+583121886.index
+309967098.index
+3712461560.index
+3985071874.index
+3249386419.index

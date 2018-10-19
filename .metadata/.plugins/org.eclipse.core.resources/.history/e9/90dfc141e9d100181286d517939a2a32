@@ -1,0 +1,9 @@
+package t4novel.azurewebsites.net.models;
+
+import java.util.List;
+
+public class BookMarkFolder {
+	private int id;
+	private List<BookMark> bookMarks;
+	
+}
